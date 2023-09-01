@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="scrolling-on-output" type="bool" value="false"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.64000000000000001"/>
+  <property name="font-name" type="string" value="JetBrainsMono Nerd Font Medium 12"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-confirm-close" type="bool" value="false"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
+  <property name="font-allow-bold" type="bool" value="true"/>
+  <property name="misc-slim-tabs" type="bool" value="false"/>
+  <property name="cell-width-scale" type="double" value="1"/>
+  <property name="cell-height-scale" type="double" value="1"/>
+</channel>
