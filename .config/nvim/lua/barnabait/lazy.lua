@@ -45,5 +45,6 @@ require("lazy").setup({
     opts = {} 
 },
 {"p00f/nvim-ts-rainbow"},
-{ 'rose-pine/neovim', name = 'rose-pine' }
+{ 'rose-pine/neovim', name = 'rose-pine' },
+{'ThePrimeagen/vim-be-good'}
 })
