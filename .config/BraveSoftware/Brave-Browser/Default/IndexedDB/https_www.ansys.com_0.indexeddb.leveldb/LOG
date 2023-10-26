@@ -1,0 +1,6 @@
+2023/10/11-16:03:49.842 3be Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ansys.com_0.indexeddb.leveldb since it was missing.
+2023/10/11-16:03:49.844 3be Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ansys.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/11-16:04:27.795 3bf Level-0 table #5: started
+2023/10/11-16:04:27.796 3bf Level-0 table #5: 1376 bytes OK
+2023/10/11-16:04:27.797 3bf Delete type=0 #3
+2023/10/11-16:04:27.797 3bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

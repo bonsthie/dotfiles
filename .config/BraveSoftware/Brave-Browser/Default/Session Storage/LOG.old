@@ -1,0 +1,10 @@
+2023/10/25-22:11:26.652 3 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/10/25-22:11:26.655 3 Recovering log #595
+2023/10/25-22:11:26.655 3 (ignoring error) /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000595.log: dropping 6666 bytes; Corruption: checksum mismatch
+2023/10/25-22:11:26.655 3 Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000595.log 
+2023/10/25-22:11:26.994 3 Level-0 table #600: started
+2023/10/25-22:11:26.996 3 Level-0 table #600: 24814 bytes OK
+2023/10/25-22:11:26.998 3 Delete type=0 #595
+2023/10/26-03:01:20.078 5 Level-0 table #602: started
+2023/10/26-03:01:20.080 5 Level-0 table #602: 22616 bytes OK
+2023/10/26-03:01:20.117 5 Delete type=0 #599

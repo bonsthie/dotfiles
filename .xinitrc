@@ -49,14 +49,12 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 setxkbmap us &
+xrandr --output HDMI-0 --right-of DP-0
 xrandr --output DP-0 --primary
 xsetroot -cursor_name left_ptr
-$HOME/.screenlayout/display.sh &
+sudo polybar &
 nitrogen --restore &
 picom -f &
-
-pulseaudio --kill
-sleep 5
 pulseaudio --start
 
 exec bspwm

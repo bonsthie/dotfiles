@@ -1,0 +1,7 @@
+2023/09/23-22:31:00.323 19cd Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/23-22:31:00.323 19cd Recovering log #3
+2023/09/23-22:31:00.323 19cd Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/000003.log 
+2023/09/23-22:31:02.363 19ce Level-0 table #5: started
+2023/09/23-22:31:02.364 19ce Level-0 table #5: 5331 bytes OK
+2023/09/23-22:31:02.365 19ce Delete type=0 #3
+2023/09/23-22:31:02.365 19ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

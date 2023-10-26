@@ -1,0 +1,6 @@
+2023/09/27-23:15:13.854 3b2 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb since it was missing.
+2023/09/27-23:15:13.856 3b2 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/27-23:16:17.341 3b3 Level-0 table #5: started
+2023/09/27-23:16:17.342 3b3 Level-0 table #5: 866 bytes OK
+2023/09/27-23:16:17.343 3b3 Delete type=0 #3
+2023/09/27-23:16:17.343 3b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

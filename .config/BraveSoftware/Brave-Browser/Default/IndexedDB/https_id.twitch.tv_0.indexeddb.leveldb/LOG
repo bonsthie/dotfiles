@@ -1,0 +1,6 @@
+2023/10/26-17:28:06.010 4d8 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_id.twitch.tv_0.indexeddb.leveldb since it was missing.
+2023/10/26-17:28:06.011 4d8 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_id.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/26-17:28:08.654 4d8 Level-0 table #5: started
+2023/10/26-17:28:08.655 4d8 Level-0 table #5: 23660 bytes OK
+2023/10/26-17:28:08.655 4d8 Delete type=0 #3
+2023/10/26-17:28:08.655 4d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

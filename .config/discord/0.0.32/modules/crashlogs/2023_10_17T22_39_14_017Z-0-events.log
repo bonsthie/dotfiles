@@ -1,0 +1,118 @@
+2023-10-17T22:39:14.027Z 0: 
+
+----------------------------------------------
+2023-10-17T22:39:14.032Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-17T22:39:14.059Z 2: ✅ webContents.created web1 ""
+2023-10-17T22:39:14.067Z 3: ✅ window.created win1 "discord"
+2023-10-17T22:39:14.347Z 4: ✅ webContents.did-finish-load web1
+2023-10-17T22:39:21.696Z 5: ✅ webContents.created web2 ""
+2023-10-17T22:39:21.818Z 6: ✅ window.created win2 "Discord"
+2023-10-17T22:39:26.293Z 7: ✅ webContents.did-finish-load web2
+2023-10-17T22:39:26.392Z 8: window.close win1
+2023-10-17T22:39:26.426Z 9: webContents.destroyed web1
+2023-10-17T22:39:26.428Z 10: window.closed win1
+2023-10-18T01:37:29.008Z 11: window.close win2
+2023-10-18T06:42:59.902Z 0: 
+
+----------------------------------------------
+2023-10-18T06:42:59.928Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-18T06:42:59.943Z 2: ✅ webContents.created web1 ""
+2023-10-18T06:42:59.945Z 3: ✅ window.created win1 "discord"
+2023-10-18T06:43:00.253Z 4: ✅ webContents.did-finish-load web1
+2023-10-18T06:43:00.549Z 5: ✅ webContents.created web2 ""
+2023-10-18T06:43:00.677Z 6: ✅ window.created win2 "Discord"
+2023-10-18T06:43:05.045Z 7: ✅ webContents.did-finish-load web2
+2023-10-18T06:43:05.146Z 8: window.close win1
+2023-10-18T06:43:05.173Z 9: webContents.destroyed web1
+2023-10-18T06:43:05.175Z 10: window.closed win1
+2023-10-19T00:43:39.103Z 11: window.close win2
+2023-10-22T18:29:58.930Z 0: 
+
+----------------------------------------------
+2023-10-22T18:29:58.943Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-22T18:29:58.961Z 2: ✅ webContents.created web1 ""
+2023-10-22T18:29:58.965Z 3: ✅ window.created win1 "discord"
+2023-10-22T18:29:59.267Z 4: ✅ webContents.did-finish-load web1
+2023-10-22T18:29:59.642Z 5: ✅ webContents.created web2 ""
+2023-10-22T18:29:59.740Z 6: ✅ window.created win2 "Discord"
+2023-10-22T18:30:04.912Z 7: ✅ webContents.did-finish-load web2
+2023-10-22T18:30:04.977Z 8: window.close win1
+2023-10-22T18:30:04.998Z 9: webContents.destroyed web1
+2023-10-22T18:30:05.000Z 10: window.closed win1
+2023-10-23T00:41:43.410Z 11: window.close win2
+2023-10-23T14:36:39.477Z 0: 
+
+----------------------------------------------
+2023-10-23T14:36:39.494Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-23T14:36:39.509Z 2: ✅ webContents.created web1 ""
+2023-10-23T14:36:39.516Z 3: ✅ window.created win1 "discord"
+2023-10-23T14:36:39.778Z 4: ✅ webContents.did-finish-load web1
+2023-10-23T14:36:40.091Z 5: ✅ webContents.created web2 ""
+2023-10-23T14:36:40.194Z 6: ✅ window.created win2 "Discord"
+2023-10-23T14:36:44.392Z 7: ✅ webContents.did-finish-load web2
+2023-10-23T14:36:44.492Z 8: window.close win1
+2023-10-23T14:36:44.521Z 9: webContents.destroyed web1
+2023-10-23T14:36:44.522Z 10: window.closed win1
+2023-10-23T17:45:03.026Z 11: window.close win2
+2023-10-24T18:19:28.455Z 0: 
+
+----------------------------------------------
+2023-10-24T18:19:28.472Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-24T18:19:28.490Z 2: ✅ webContents.created web1 ""
+2023-10-24T18:19:28.497Z 3: ✅ window.created win1 "discord"
+2023-10-24T18:19:28.803Z 4: ✅ webContents.did-finish-load web1
+2023-10-24T18:19:29.206Z 5: ✅ webContents.created web2 ""
+2023-10-24T18:19:29.303Z 6: ✅ window.created win2 "Discord"
+2023-10-24T18:19:33.689Z 7: ✅ webContents.did-finish-load web2
+2023-10-24T18:19:33.789Z 8: window.close win1
+2023-10-24T18:19:33.798Z 9: webContents.destroyed web1
+2023-10-24T18:19:33.799Z 10: window.closed win1
+2023-10-25T01:04:53.490Z 11: window.close win2
+2023-10-25T14:28:53.564Z 0: 
+
+----------------------------------------------
+2023-10-25T14:28:53.575Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-25T14:28:53.597Z 2: ✅ webContents.created web1 ""
+2023-10-25T14:28:53.600Z 3: ✅ window.created win1 "discord"
+2023-10-25T14:28:53.924Z 4: ✅ webContents.did-finish-load web1
+2023-10-25T14:28:54.151Z 5: ✅ webContents.created web2 ""
+2023-10-25T14:28:54.254Z 6: ✅ window.created win2 "Discord"
+2023-10-25T14:28:56.624Z 7: ✅ webContents.did-finish-load web2
+2023-10-25T14:28:56.724Z 8: window.close win1
+2023-10-25T14:28:56.750Z 9: webContents.destroyed web1
+2023-10-25T14:28:56.752Z 10: window.closed win1
+2023-10-25T15:29:30.630Z 11: Sentry report: {"sdk":{"name":"sentry.javascript.electron","packages":[{"name":"npm:@sentry/electron","version":"4.13.0"}],"version":"4.13.0","integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","InboundFilters","FunctionToString","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules","RequestData","LinkedErrors"]},"contexts":{"trace":{"trace_id":"962b4ad17175429c842ee4c465164c43","span_id":"9afc3f1d4f85da95"},"app":{"app_name":"discord","app_version":"0.0.32","app_start_time":"2023-10-25T14:28:53.058Z"},"os":{"kernel_version":"6.1.55-1-lts","name":"Arch Linux","version":"\"rolling\""},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"108.0.5359.215"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1,"screen_resolution":"1920x1080","memory_size":50437894144,"free_memory":44582793216,"processor_count":12,"cpu_description":"AMD Ryzen 5 2600 Six-Core Processor","processor_frequency":1269},"node":{"name":"Node","type":"runtime","version":"16.17.1"},"runtime":{"name":"Electron","version":"22.3.26"}},"environment":"stable","release":"0.0.32","user":{"ip_address":"{{auto}}","id":"909413292433354763","username":"barnabait","email":"barnabaitpro@gmail.com"},"tags":{"event.origin":"electron","event.environment":"javascript","event.process":"browser","event_type":"javascript","nativeBuildNumber":"null"},"exception":{"values":[{"type":"Error","value":"ENOSPC: no space left on device, write","mechanism":{"type":"generic","handled":false}}]},"event_id":"aa5aa0c4e4b643088594b28fbab88011","platform":"node","timestamp":1698247770.613,"breadcrumbs":[{"timestamp":1698244134.042,"category":"console","level":"log","message":"splashScreen.launchMainWindow: false"},{"timestamp":1698244134.108,"category":"electron","message":"powerMonitor.newListener","type":"ui"},{"timestamp":1698244134.122,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1698244134.139,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1698244134.14,"category":"console","level":"log","message":"Optional module ./ElectronTestRpc was not included."},{"timestamp":1698244134.15,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1698244134.15,"category":"console","level":"log","message":"splashScreen.updateSplashState launching launching {}"},{"timestamp":1698244134.15,"category":"console","level":"log","message":"splashScreen.webContentsSend: SPLASH_UPDATE_STATE SPLASH_UPDATE_STATE [ { status: 'launching' } ]"},{"timestamp":1698244134.151,"category":"electron","message":"powerMonitor.newListener","type":"ui"},{"timestamp":1698244134.151,"category":"console","level":"log","message":"blackbox: 2023-10-25T14:28:54.151Z 5 ✅ webContents.created web2 \"\""},{"timestamp":1698244134.254,"category":"console","level":"log","message":"blackbox: 2023-10-25T14:28:54.254Z 6 ✅ window.created win2 \"Discord\""},{"timestamp":1698244135.616,"category":"console","data":{"arguments":["Initializing voice engine with audio subsystem: false"],"logger":"console"},"level":"log","message":"Initializing voice engine with audio subsystem: false"},{"timestamp":1698244135.91,"category":"console","level":"log","message":"legac2023-10-25T15:32:29.995Z 12: window.close win2
+2023-10-25T15:32:30.021Z 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2023-10-25T21:57:50.325Z 0: 
+
+----------------------------------------------
+2023-10-25T21:57:50.336Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-25T21:57:50.351Z 2: ✅ webContents.created web1 ""
+2023-10-25T21:57:50.354Z 3: ✅ window.created win1 "discord"
+2023-10-25T21:57:50.655Z 4: ✅ webContents.did-finish-load web1
+2023-10-25T21:57:50.885Z 5: ✅ webContents.created web2 ""
+2023-10-25T21:57:50.982Z 6: ✅ window.created win2 "Discord"
+2023-10-25T21:57:54.479Z 7: ✅ webContents.did-finish-load web2
+2023-10-25T21:57:54.579Z 8: window.close win1
+2023-10-25T21:57:54.657Z 9: webContents.destroyed web1
+2023-10-25T21:57:54.660Z 10: window.closed win1
+2023-10-26T01:28:14.508Z 11: window.close win2
+2023-10-26T16:02:50.422Z 0: 
+
+----------------------------------------------
+2023-10-26T16:02:50.433Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.32"}, modulepath: /home/bonsthie/.config/discord/0.0.32/modules
+2023-10-26T16:02:50.448Z 2: ✅ webContents.created web1 ""
+2023-10-26T16:02:50.451Z 3: ✅ window.created win1 "discord"
+2023-10-26T16:02:50.770Z 4: ✅ webContents.did-finish-load web1
+2023-10-26T16:02:51.010Z 5: ✅ webContents.created web2 ""
+2023-10-26T16:02:51.105Z 6: ✅ window.created win2 "Discord"
+2023-10-26T16:02:54.086Z 7: ✅ webContents.did-finish-load web2
+2023-10-26T16:02:54.186Z 8: window.close win1
+2023-10-26T16:02:54.211Z 9: webContents.destroyed web1
+2023-10-26T16:02:54.215Z 10: window.closed win1

@@ -1,0 +1,10 @@
+2023/09/27-14:57:00.232 3b2 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.alibaba.com_0.indexeddb.leveldb since it was missing.
+2023/09/27-14:57:00.234 3b2 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/27-14:57:40.595 3bb Level-0 table #5: started
+2023/09/27-14:57:40.596 3bb Level-0 table #5: 17300 bytes OK
+2023/09/27-14:57:40.597 3bb Delete type=0 #3
+2023/09/27-14:57:40.597 3bb Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/27-14:58:01.711 3b2 Level-0 table #7: started
+2023/09/27-14:58:01.713 3b2 Level-0 table #7: 13094 bytes OK
+2023/09/27-14:58:01.714 3b2 Delete type=0 #4
+2023/09/27-14:58:01.714 3b3 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

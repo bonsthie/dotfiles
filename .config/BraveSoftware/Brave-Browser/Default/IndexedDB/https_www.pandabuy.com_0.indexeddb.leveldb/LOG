@@ -1,0 +1,36 @@
+2023/10/07-22:46:13.774 3a7 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pandabuy.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-22:46:13.774 3a7 Recovering log #14
+2023/10/07-22:46:13.774 3a7 Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pandabuy.com_0.indexeddb.leveldb/000014.log 
+2023/10/07-22:46:13.774 3a7 Delete type=2 #13
+2023/10/07-22:46:13.902 3b1 Level-0 table #19: started
+2023/10/07-22:46:13.903 3b1 Level-0 table #19: 1767 bytes OK
+2023/10/07-22:46:13.904 3b1 Delete type=0 #14
+2023/10/07-22:46:13.904 3a7 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 1436 : 1
+2023/10/07-22:46:13.904 3a7 Compacting 1@0 + 1@1 files
+2023/10/07-22:46:13.905 3a7 Generated table #20@0: 505 keys, 9184 bytes
+2023/10/07-22:46:13.905 3a7 Compacted 1@0 + 1@1 files => 9184 bytes
+2023/10/07-22:46:13.906 3a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/07-22:46:13.906 3a7 Delete type=2 #19
+2023/10/07-22:46:13.906 3a7 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 1436 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/07-22:46:16.905 3b1 Level-0 table #22: started
+2023/10/07-22:46:16.906 3b1 Level-0 table #22: 1767 bytes OK
+2023/10/07-22:46:16.907 3b1 Delete type=0 #18
+2023/10/07-22:46:16.907 3b1 Delete type=2 #16
+2023/10/07-22:46:16.907 3a7 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 1479 : 1
+2023/10/07-22:46:16.907 3a7 Compacting 1@0 + 1@1 files
+2023/10/07-22:46:16.909 3a7 Generated table #23@0: 513 keys, 9356 bytes
+2023/10/07-22:46:16.909 3a7 Compacted 1@0 + 1@1 files => 9356 bytes
+2023/10/07-22:46:16.909 3a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/07-22:46:16.910 3a7 Delete type=2 #22
+2023/10/07-22:46:16.910 3a7 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 1479 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/07-22:49:37.871 3b1 Level-0 table #25: started
+2023/10/07-22:49:37.872 3b1 Level-0 table #25: 1768 bytes OK
+2023/10/07-22:49:37.873 3b1 Delete type=0 #21
+2023/10/07-22:49:37.873 3b1 Delete type=2 #20
+2023/10/07-22:49:37.873 3a7 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 1522 : 1
+2023/10/07-22:49:37.873 3a7 Compacting 1@0 + 1@1 files
+2023/10/07-22:49:37.875 3a7 Generated table #26@0: 525 keys, 9665 bytes
+2023/10/07-22:49:37.875 3a7 Compacted 1@0 + 1@1 files => 9665 bytes
+2023/10/07-22:49:37.876 3a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/07-22:49:37.876 3a7 Delete type=2 #25
+2023/10/07-22:49:37.877 3a7 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 1522 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

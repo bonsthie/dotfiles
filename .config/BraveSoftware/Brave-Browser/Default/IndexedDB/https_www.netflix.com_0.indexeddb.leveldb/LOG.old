@@ -1,0 +1,15 @@
+2023/10/21-20:31:49.800 423 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/21-20:31:49.800 423 Recovering log #24
+2023/10/21-20:31:49.816 423 Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000024.log 
+2023/10/21-20:32:09.802 424 Level-0 table #29: started
+2023/10/21-20:32:09.824 424 Level-0 table #29: 2022269 bytes OK
+2023/10/21-20:32:09.825 424 Delete type=0 #24
+2023/10/21-20:32:09.826 424 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/21-20:32:09.826 424 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 63162 : 1
+2023/10/21-20:32:09.826 424 Compacting 1@1 + 1@2 files
+2023/10/21-20:32:09.832 424 Generated table #30@1: 50 keys, 8298 bytes
+2023/10/21-20:32:09.832 424 Compacted 1@1 + 1@2 files => 8298 bytes
+2023/10/21-20:32:09.832 424 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/21-20:32:09.832 424 Delete type=2 #26
+2023/10/21-20:32:09.832 424 Delete type=2 #29
+2023/10/21-20:32:09.833 424 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 63162 : 1 .. (end); will stop at (end)

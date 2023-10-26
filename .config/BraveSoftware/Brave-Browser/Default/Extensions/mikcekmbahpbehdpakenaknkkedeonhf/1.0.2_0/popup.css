@@ -1,0 +1,75 @@
+.readergpt__container {
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.05) -3px 9px 28px 8px, rgba(0, 0, 0, 0.08) -3px 6px 16px, rgba(0, 0, 0, 0.12) -1px 3px 6px -4px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: auto;
+  max-height: 500px;
+  opacity: 1;
+  position: fixed;
+  right: 16px;
+  top: 16px;
+  z-index: 2147483646;
+  font-family: Inter, sans-serif !important;
+  border-radius: 16px;
+  transition: all 0.4s ease 0s;
+  overflow: scroll;
+  color: black;
+  line-height: 1.6;
+  font-size: 16px important !;
+}
+
+/* Not using rem in the following properties to avoid clasing with root font size. */
+#readergpt__navContainer {
+  background-color: #48b177;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+#readergpt__navbarTitle {
+  font-size: 16px;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 16px;
+  line-height: 32px;
+}
+
+#readergpt__summarySection {
+  display: block;
+}
+
+#readergpt__readableText {
+  margin: 16px;
+}
+
+#readergpt__buttonContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#readergpt__gifContainer {
+  display: none;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+#readergpt__gifContainer.loading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+
+.readergpt__readableText {
+  font-weight: 400;
+  line-height: 1.75;
+}
+
+#readergpt__summaryTextHeader {
+  font-size: 16px;
+}

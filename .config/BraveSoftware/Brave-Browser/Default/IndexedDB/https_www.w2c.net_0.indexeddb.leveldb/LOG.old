@@ -1,0 +1,6 @@
+2023/10/07-22:34:06.821 3a7 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.w2c.net_0.indexeddb.leveldb since it was missing.
+2023/10/07-22:34:06.822 3a7 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.w2c.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-22:34:10.593 3a8 Level-0 table #5: started
+2023/10/07-22:34:10.594 3a8 Level-0 table #5: 1460 bytes OK
+2023/10/07-22:34:10.595 3a8 Delete type=0 #3
+2023/10/07-22:34:10.595 3a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/10/09-00:58:23.431 3c3 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.motorsport.com_0.indexeddb.leveldb since it was missing.
+2023/10/09-00:58:23.434 3c3 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.motorsport.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/09-00:58:58.180 3c4 Level-0 table #5: started
+2023/10/09-00:58:58.181 3c4 Level-0 table #5: 841 bytes OK
+2023/10/09-00:58:58.182 3c4 Delete type=0 #3
+2023/10/09-00:58:58.182 3c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

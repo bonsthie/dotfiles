@@ -1,0 +1,23 @@
+2023/10/25-22:13:29.147 41e Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2023/10/25-22:13:29.150 41e Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/26-00:44:22.844 41f Level-0 table #5: started
+2023/10/26-00:44:22.859 41f Level-0 table #5: 1098940 bytes OK
+2023/10/26-00:44:22.860 41f Delete type=0 #3
+2023/10/26-01:53:21.353 427 Level-0 table #7: started
+2023/10/26-01:53:21.376 427 Level-0 table #7: 1166078 bytes OK
+2023/10/26-01:53:21.378 427 Delete type=0 #4
+2023/10/26-01:54:47.143 41f Compacting 1@1 + 1@2 files
+2023/10/26-01:54:47.189 41f Generated table #8@1: 4698 keys, 336894 bytes
+2023/10/26-01:54:47.189 41f Compacted 1@1 + 1@2 files => 336894 bytes
+2023/10/26-01:54:47.190 41f compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/26-01:54:47.190 41f Delete type=2 #5
+2023/10/26-01:54:47.190 41f Delete type=2 #7
+2023/10/26-03:19:52.564 427 Level-0 table #10: started
+2023/10/26-03:19:52.591 427 Level-0 table #10: 1145365 bytes OK
+2023/10/26-03:19:52.592 427 Delete type=0 #6
+2023/10/26-03:19:54.963 41e Compacting 1@1 + 1@2 files
+2023/10/26-03:19:54.989 41e Generated table #11@1: 6321 keys, 424430 bytes
+2023/10/26-03:19:54.989 41e Compacted 1@1 + 1@2 files => 424430 bytes
+2023/10/26-03:19:54.990 41e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/26-03:19:54.990 41e Delete type=2 #10
+2023/10/26-03:19:54.990 41e Delete type=2 #8

@@ -1,0 +1,14 @@
+2023/10/25-15:31:03.928 3ad Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/25-15:31:03.928 3ad Recovering log #35
+2023/10/25-15:31:03.928 3ad Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000035.log 
+2023/10/25-15:31:03.929 3ad Delete type=2 #33
+2023/10/25-15:31:04.110 3b8 Level-0 table #40: started
+2023/10/25-15:31:04.110 3b8 Level-0 table #40: 1332 bytes OK
+2023/10/25-15:31:04.111 3b8 Delete type=0 #35
+2023/10/25-15:31:04.111 3ae Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 531 : 1
+2023/10/25-15:31:04.111 3ae Compacting 1@0 + 1@1 files
+2023/10/25-15:31:04.112 3ae Generated table #41@0: 83 keys, 1706 bytes
+2023/10/25-15:31:04.112 3ae Compacted 1@0 + 1@1 files => 1706 bytes
+2023/10/25-15:31:04.113 3ae compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/25-15:31:04.113 3ae Delete type=2 #40
+2023/10/25-15:31:04.113 3ae Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 531 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

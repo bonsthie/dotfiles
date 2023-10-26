@@ -1,0 +1,50 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icons/action_enabled_16.png",
+         "32": "icons/action_enabled_32.png"
+      },
+      "default_popup": "pages/action.html"
+   },
+   "background": {
+      "service_worker": "background_scripts/background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "content_scripts/vimium.css" ],
+      "js": [ "lib/utils.js", "lib/keyboard_utils.js", "lib/dom_utils.js", "lib/rect.js", "lib/handler_stack.js", "lib/settings.js", "lib/find_mode_history.js", "content_scripts/mode.js", "content_scripts/ui_component.js", "content_scripts/link_hints.js", "content_scripts/vomnibar.js", "content_scripts/scroller.js", "content_scripts/marks.js", "content_scripts/mode_insert.js", "content_scripts/mode_find.js", "content_scripts/mode_key_handler.js", "content_scripts/mode_visual.js", "content_scripts/hud.js", "content_scripts/mode_normal.js", "content_scripts/vimium_frontend.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "content_scripts/file_urls.css" ],
+      "matches": [ "file:///", "file:///*/" ],
+      "run_at": "document_start"
+   } ],
+   "description": "The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.",
+   "differential_fingerprint": "1.0c09538a80a718c10aae72c8cd55a8a6b5bd96c03c7559d0166a6f7459ad7820",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCavizCZ9EnBGbtcRmMErcaxD2WUHJ9ME8IYGQhUBlFgIvchJjAO8koyak3AM95dqu3sOLdtIYD+75T82V1Wl5fLnHAeij2/IWL2VViTHeZhXZl1+rD9sRDaEYd7aZetpJ29+XXfhVphKArCCfwbYCtoJhTIr6S6DYsXuRevoV0EwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "102.0",
+   "name": "Vimium",
+   "options_ui": {
+      "browser_style": false,
+      "open_in_tab": true,
+      "page": "pages/options.html"
+   },
+   "permissions": [ "tabs", "bookmarks", "history", "storage", "sessions", "notifications", "scripting", "favicon", "webNavigation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.4",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "pages/vomnibar.html", "content_scripts/vimium.css", "pages/hud.html", "pages/help_dialog.html", "pages/completion_engines.html", "_favicon/*" ]
+   } ]
+}

@@ -1,0 +1,606 @@
+2023-09-15T22:57:27.951Z [Modules] Modules initializing
+2023-09-15T22:57:27.951Z [Modules] Distribution: remote
+2023-09-15T22:57:27.951Z [Modules] Host updates: enabled
+2023-09-15T22:57:27.951Z [Modules] Module updates: enabled
+2023-09-15T22:57:27.951Z [Modules] Module install path: /home/bonsthie/.config/discordcanary/0.0.167/modules
+2023-09-15T22:57:27.952Z [Modules] Module installed file path: /home/bonsthie/.config/discordcanary/0.0.167/modules/installed.json
+2023-09-15T22:57:27.952Z [Modules] Module download path: /home/bonsthie/.config/discordcanary/0.0.167/modules/pending
+2023-09-15T22:57:28.162Z [Modules] Bootstrapping...
+2023-09-15T22:57:28.163Z [Modules] Installing discord_desktop_core@0 from /opt/discord-canary/resources/bootstrap/discord_desktop_core.zip
+2023-09-15T22:57:28.165Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_desktop_core.zip'
+2023-09-15T22:57:28.166Z [Modules] Installing discord_erlpack@0 from /opt/discord-canary/resources/bootstrap/discord_erlpack.zip
+2023-09-15T22:57:28.170Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_erlpack.zip'
+2023-09-15T22:57:28.171Z [Modules] Installing discord_spellcheck@0 from /opt/discord-canary/resources/bootstrap/discord_spellcheck.zip
+2023-09-15T22:57:28.173Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_spellcheck.zip'
+2023-09-15T22:57:28.173Z [Modules] Installing discord_utils@0 from /opt/discord-canary/resources/bootstrap/discord_utils.zip
+2023-09-15T22:57:28.174Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_utils.zip'
+2023-09-15T22:57:28.174Z [Modules] Installing discord_voice@0 from /opt/discord-canary/resources/bootstrap/discord_voice.zip
+2023-09-15T22:57:28.175Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord-canary/resources/bootstrap/discord_voice.zip'
+2023-09-15T22:57:28.175Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-09-15T22:57:28.175Z [Modules] Checking for host updates.
+2023-09-15T22:57:28.439Z [Modules] Host is up to date.
+2023-09-15T22:57:28.439Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-09-15T22:57:28.615Z [Modules] Module update available: discord_desktop_core@8 [installed: 0]
+2023-09-15T22:57:28.615Z [Modules] Module update available: discord_erlpack@8 [installed: 0]
+2023-09-15T22:57:28.616Z [Modules] Module update available: discord_spellcheck@8 [installed: 0]
+2023-09-15T22:57:28.616Z [Modules] Module update available: discord_utils@8 [installed: 0]
+2023-09-15T22:57:28.616Z [Modules] Module update available: discord_voice@8 [installed: 0]
+2023-09-15T22:57:28.617Z [Modules] Fetching discord_desktop_core@8 from https://discord.com/api/modules/canary/discord_desktop_core/8
+2023-09-15T22:57:28.617Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip
+2023-09-15T22:57:28.819Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 2%
+2023-09-15T22:57:28.821Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 3%
+2023-09-15T22:57:28.832Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 5%
+2023-09-15T22:57:28.834Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 6%
+2023-09-15T22:57:28.838Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 7%
+2023-09-15T22:57:28.843Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 8%
+2023-09-15T22:57:28.853Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 10%
+2023-09-15T22:57:28.856Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 11%
+2023-09-15T22:57:28.866Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 12%
+2023-09-15T22:57:28.873Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 13%
+2023-09-15T22:57:28.878Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 14%
+2023-09-15T22:57:28.884Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 15%
+2023-09-15T22:57:28.889Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 16%
+2023-09-15T22:57:28.892Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 17%
+2023-09-15T22:57:28.899Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 19%
+2023-09-15T22:57:28.901Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 20%
+2023-09-15T22:57:28.910Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 24%
+2023-09-15T22:57:28.912Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 25%
+2023-09-15T22:57:28.918Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 27%
+2023-09-15T22:57:28.921Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 28%
+2023-09-15T22:57:28.923Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 30%
+2023-09-15T22:57:28.929Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 31%
+2023-09-15T22:57:28.934Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 34%
+2023-09-15T22:57:28.937Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 35%
+2023-09-15T22:57:28.944Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 37%
+2023-09-15T22:57:28.955Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 39%
+2023-09-15T22:57:28.959Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 41%
+2023-09-15T22:57:28.963Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 42%
+2023-09-15T22:57:28.969Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 45%
+2023-09-15T22:57:28.976Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 48%
+2023-09-15T22:57:28.979Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 49%
+2023-09-15T22:57:28.986Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 51%
+2023-09-15T22:57:28.988Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 53%
+2023-09-15T22:57:28.993Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 54%
+2023-09-15T22:57:28.996Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 56%
+2023-09-15T22:57:29.002Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 58%
+2023-09-15T22:57:29.011Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 60%
+2023-09-15T22:57:29.017Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 63%
+2023-09-15T22:57:29.020Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 65%
+2023-09-15T22:57:29.029Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 68%
+2023-09-15T22:57:29.035Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 69%
+2023-09-15T22:57:29.049Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 70%
+2023-09-15T22:57:29.051Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 71%
+2023-09-15T22:57:29.058Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 74%
+2023-09-15T22:57:29.061Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 76%
+2023-09-15T22:57:29.067Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 78%
+2023-09-15T22:57:29.073Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 79%
+2023-09-15T22:57:29.078Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 82%
+2023-09-15T22:57:29.081Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 83%
+2023-09-15T22:57:29.086Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 86%
+2023-09-15T22:57:29.088Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 87%
+2023-09-15T22:57:29.090Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 88%
+2023-09-15T22:57:29.095Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 90%
+2023-09-15T22:57:29.098Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 92%
+2023-09-15T22:57:29.104Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 95%
+2023-09-15T22:57:29.106Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 96%
+2023-09-15T22:57:29.114Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 97%
+2023-09-15T22:57:29.116Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 99%
+2023-09-15T22:57:29.117Z [Modules] Streaming discord_desktop_core@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip: 100%
+2023-09-15T22:57:29.120Z [Modules] Fetching discord_erlpack@8 from https://discord.com/api/modules/canary/discord_erlpack/8
+2023-09-15T22:57:29.121Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip
+2023-09-15T22:57:29.287Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 1%
+2023-09-15T22:57:29.289Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 2%
+2023-09-15T22:57:29.292Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 5%
+2023-09-15T22:57:29.295Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 7%
+2023-09-15T22:57:29.310Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 8%
+2023-09-15T22:57:29.312Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 11%
+2023-09-15T22:57:29.316Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 13%
+2023-09-15T22:57:29.318Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 15%
+2023-09-15T22:57:29.324Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 16%
+2023-09-15T22:57:29.335Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 17%
+2023-09-15T22:57:29.343Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 21%
+2023-09-15T22:57:29.349Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 22%
+2023-09-15T22:57:29.354Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 23%
+2023-09-15T22:57:29.357Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 26%
+2023-09-15T22:57:29.363Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 29%
+2023-09-15T22:57:29.365Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 30%
+2023-09-15T22:57:29.369Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 32%
+2023-09-15T22:57:29.378Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 35%
+2023-09-15T22:57:29.381Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 36%
+2023-09-15T22:57:29.387Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 38%
+2023-09-15T22:57:29.389Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 39%
+2023-09-15T22:57:29.396Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 42%
+2023-09-15T22:57:29.402Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 43%
+2023-09-15T22:57:29.404Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 47%
+2023-09-15T22:57:29.414Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 49%
+2023-09-15T22:57:29.420Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 52%
+2023-09-15T22:57:29.424Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 53%
+2023-09-15T22:57:29.430Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 55%
+2023-09-15T22:57:29.432Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 56%
+2023-09-15T22:57:29.437Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 59%
+2023-09-15T22:57:29.440Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 60%
+2023-09-15T22:57:29.441Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 61%
+2023-09-15T22:57:29.443Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 62%
+2023-09-15T22:57:29.448Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 63%
+2023-09-15T22:57:29.451Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 64%
+2023-09-15T22:57:29.460Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 67%
+2023-09-15T22:57:29.464Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 70%
+2023-09-15T22:57:29.466Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 71%
+2023-09-15T22:57:29.472Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 73%
+2023-09-15T22:57:29.478Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 76%
+2023-09-15T22:57:29.480Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 77%
+2023-09-15T22:57:29.481Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 78%
+2023-09-15T22:57:29.485Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 79%
+2023-09-15T22:57:29.497Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 80%
+2023-09-15T22:57:29.501Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 81%
+2023-09-15T22:57:29.505Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 82%
+2023-09-15T22:57:29.508Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 83%
+2023-09-15T22:57:29.510Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 84%
+2023-09-15T22:57:29.513Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 86%
+2023-09-15T22:57:29.516Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 87%
+2023-09-15T22:57:29.518Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 88%
+2023-09-15T22:57:29.524Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 90%
+2023-09-15T22:57:29.533Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 92%
+2023-09-15T22:57:29.538Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 93%
+2023-09-15T22:57:29.543Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 96%
+2023-09-15T22:57:29.548Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 97%
+2023-09-15T22:57:29.554Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 98%
+2023-09-15T22:57:29.555Z [Modules] Streaming discord_erlpack@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip: 100%
+2023-09-15T22:57:29.558Z [Modules] Fetching discord_spellcheck@8 from https://discord.com/api/modules/canary/discord_spellcheck/8
+2023-09-15T22:57:29.558Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip
+2023-09-15T22:57:29.731Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 1%
+2023-09-15T22:57:29.736Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 2%
+2023-09-15T22:57:29.756Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 3%
+2023-09-15T22:57:29.769Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 4%
+2023-09-15T22:57:29.789Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 5%
+2023-09-15T22:57:29.795Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 6%
+2023-09-15T22:57:29.810Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 7%
+2023-09-15T22:57:29.831Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 8%
+2023-09-15T22:57:29.839Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 9%
+2023-09-15T22:57:29.857Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 10%
+2023-09-15T22:57:29.866Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 11%
+2023-09-15T22:57:29.874Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 12%
+2023-09-15T22:57:29.890Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 13%
+2023-09-15T22:57:29.901Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 14%
+2023-09-15T22:57:29.917Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 15%
+2023-09-15T22:57:29.930Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 16%
+2023-09-15T22:57:29.938Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 17%
+2023-09-15T22:57:29.958Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 18%
+2023-09-15T22:57:29.967Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 19%
+2023-09-15T22:57:29.976Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 20%
+2023-09-15T22:57:29.991Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 21%
+2023-09-15T22:57:30.004Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 22%
+2023-09-15T22:57:30.016Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 23%
+2023-09-15T22:57:30.031Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 24%
+2023-09-15T22:57:30.045Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 25%
+2023-09-15T22:57:30.054Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 26%
+2023-09-15T22:57:30.075Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 27%
+2023-09-15T22:57:30.086Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 28%
+2023-09-15T22:57:30.097Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 29%
+2023-09-15T22:57:30.114Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 30%
+2023-09-15T22:57:30.128Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 31%
+2023-09-15T22:57:30.134Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 32%
+2023-09-15T22:57:30.148Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 33%
+2023-09-15T22:57:30.157Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 34%
+2023-09-15T22:57:30.176Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 35%
+2023-09-15T22:57:30.185Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 36%
+2023-09-15T22:57:30.199Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 37%
+2023-09-15T22:57:30.207Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 38%
+2023-09-15T22:57:30.214Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 39%
+2023-09-15T22:57:30.230Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 40%
+2023-09-15T22:57:30.243Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 41%
+2023-09-15T22:57:30.252Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 42%
+2023-09-15T22:57:30.268Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 43%
+2023-09-15T22:57:30.276Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 44%
+2023-09-15T22:57:30.290Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 45%
+2023-09-15T22:57:30.307Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 46%
+2023-09-15T22:57:30.314Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 47%
+2023-09-15T22:57:30.325Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 48%
+2023-09-15T22:57:30.338Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 49%
+2023-09-15T22:57:30.355Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 50%
+2023-09-15T22:57:30.361Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 51%
+2023-09-15T22:57:30.373Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 52%
+2023-09-15T22:57:30.385Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 53%
+2023-09-15T22:57:30.398Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 54%
+2023-09-15T22:57:30.415Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 55%
+2023-09-15T22:57:30.426Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 56%
+2023-09-15T22:57:30.439Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 57%
+2023-09-15T22:57:30.455Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 58%
+2023-09-15T22:57:30.463Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 59%
+2023-09-15T22:57:30.478Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 60%
+2023-09-15T22:57:30.499Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 61%
+2023-09-15T22:57:30.512Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 62%
+2023-09-15T22:57:30.522Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 63%
+2023-09-15T22:57:30.538Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 64%
+2023-09-15T22:57:30.587Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 66%
+2023-09-15T22:57:30.589Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 67%
+2023-09-15T22:57:30.621Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 68%
+2023-09-15T22:57:30.622Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 70%
+2023-09-15T22:57:30.627Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 71%
+2023-09-15T22:57:30.652Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 72%
+2023-09-15T22:57:30.657Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 73%
+2023-09-15T22:57:30.708Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 74%
+2023-09-15T22:57:30.709Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 78%
+2023-09-15T22:57:30.724Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 79%
+2023-09-15T22:57:30.732Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 80%
+2023-09-15T22:57:30.738Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 81%
+2023-09-15T22:57:30.750Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 82%
+2023-09-15T22:57:30.757Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 83%
+2023-09-15T22:57:30.781Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 84%
+2023-09-15T22:57:30.788Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 85%
+2023-09-15T22:57:30.795Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 86%
+2023-09-15T22:57:30.805Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 87%
+2023-09-15T22:57:30.861Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 88%
+2023-09-15T22:57:30.863Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 89%
+2023-09-15T22:57:30.864Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 92%
+2023-09-15T22:57:30.873Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 93%
+2023-09-15T22:57:30.884Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 94%
+2023-09-15T22:57:30.890Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 95%
+2023-09-15T22:57:30.904Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 96%
+2023-09-15T22:57:30.957Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 97%
+2023-09-15T22:57:30.959Z [Modules] Streaming discord_spellcheck@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip: 100%
+2023-09-15T22:57:30.963Z [Modules] Fetching discord_utils@8 from https://discord.com/api/modules/canary/discord_utils/8
+2023-09-15T22:57:30.963Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip
+2023-09-15T22:57:31.125Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 1%
+2023-09-15T22:57:31.128Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 2%
+2023-09-15T22:57:31.141Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 4%
+2023-09-15T22:57:31.146Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 5%
+2023-09-15T22:57:31.152Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 6%
+2023-09-15T22:57:31.156Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 7%
+2023-09-15T22:57:31.162Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 8%
+2023-09-15T22:57:31.167Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 9%
+2023-09-15T22:57:31.172Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 11%
+2023-09-15T22:57:31.219Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 12%
+2023-09-15T22:57:31.222Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 13%
+2023-09-15T22:57:31.225Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 14%
+2023-09-15T22:57:31.226Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 24%
+2023-09-15T22:57:31.231Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 25%
+2023-09-15T22:57:31.233Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 26%
+2023-09-15T22:57:31.235Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 27%
+2023-09-15T22:57:31.241Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 28%
+2023-09-15T22:57:31.245Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 29%
+2023-09-15T22:57:31.252Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 31%
+2023-09-15T22:57:31.255Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 32%
+2023-09-15T22:57:31.261Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 33%
+2023-09-15T22:57:31.267Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 34%
+2023-09-15T22:57:31.273Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 35%
+2023-09-15T22:57:31.274Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 36%
+2023-09-15T22:57:31.278Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 37%
+2023-09-15T22:57:31.283Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 38%
+2023-09-15T22:57:31.293Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 40%
+2023-09-15T22:57:31.295Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 41%
+2023-09-15T22:57:31.348Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 43%
+2023-09-15T22:57:31.358Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 45%
+2023-09-15T22:57:31.359Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 46%
+2023-09-15T22:57:31.382Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 47%
+2023-09-15T22:57:31.383Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 50%
+2023-09-15T22:57:31.398Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 52%
+2023-09-15T22:57:31.399Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 57%
+2023-09-15T22:57:31.401Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 62%
+2023-09-15T22:57:31.413Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 64%
+2023-09-15T22:57:31.416Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 65%
+2023-09-15T22:57:31.424Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 66%
+2023-09-15T22:57:31.426Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 67%
+2023-09-15T22:57:31.485Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 68%
+2023-09-15T22:57:31.495Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 69%
+2023-09-15T22:57:31.498Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 71%
+2023-09-15T22:57:31.499Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 81%
+2023-09-15T22:57:31.503Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 82%
+2023-09-15T22:57:31.510Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 83%
+2023-09-15T22:57:31.514Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 84%
+2023-09-15T22:57:31.517Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 85%
+2023-09-15T22:57:31.521Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 86%
+2023-09-15T22:57:31.532Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 87%
+2023-09-15T22:57:31.535Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 88%
+2023-09-15T22:57:31.544Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 89%
+2023-09-15T22:57:31.545Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 90%
+2023-09-15T22:57:31.552Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 91%
+2023-09-15T22:57:31.590Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 92%
+2023-09-15T22:57:31.595Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 94%
+2023-09-15T22:57:31.597Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 95%
+2023-09-15T22:57:31.598Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 96%
+2023-09-15T22:57:31.599Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 99%
+2023-09-15T22:57:31.605Z [Modules] Streaming discord_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip: 100%
+2023-09-15T22:57:31.607Z [Modules] Fetching discord_voice@8 from https://discord.com/api/modules/canary/discord_voice/8
+2023-09-15T22:57:31.608Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip
+2023-09-15T22:57:31.794Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 1%
+2023-09-15T22:57:31.875Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 2%
+2023-09-15T22:57:31.888Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 3%
+2023-09-15T22:57:31.890Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 4%
+2023-09-15T22:57:31.913Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 5%
+2023-09-15T22:57:31.951Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 6%
+2023-09-15T22:57:32.034Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 7%
+2023-09-15T22:57:32.039Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 8%
+2023-09-15T22:57:32.040Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 9%
+2023-09-15T22:57:32.107Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 10%
+2023-09-15T22:57:32.108Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 11%
+2023-09-15T22:57:32.171Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 12%
+2023-09-15T22:57:32.172Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 13%
+2023-09-15T22:57:32.173Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 14%
+2023-09-15T22:57:32.207Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 15%
+2023-09-15T22:57:32.231Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 16%
+2023-09-15T22:57:32.325Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 17%
+2023-09-15T22:57:32.326Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 18%
+2023-09-15T22:57:32.375Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 19%
+2023-09-15T22:57:32.376Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 20%
+2023-09-15T22:57:32.380Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 21%
+2023-09-15T22:57:32.414Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 22%
+2023-09-15T22:57:32.445Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 23%
+2023-09-15T22:57:32.512Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 24%
+2023-09-15T22:57:32.513Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 25%
+2023-09-15T22:57:32.650Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 26%
+2023-09-15T22:57:32.651Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 27%
+2023-09-15T22:57:32.652Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 28%
+2023-09-15T22:57:32.654Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 29%
+2023-09-15T22:57:32.673Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 30%
+2023-09-15T22:57:32.674Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 31%
+2023-09-15T22:57:32.695Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 32%
+2023-09-15T22:57:32.717Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 33%
+2023-09-15T22:57:32.740Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 34%
+2023-09-15T22:57:32.765Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 35%
+2023-09-15T22:57:32.899Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 36%
+2023-09-15T22:57:32.901Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 37%
+2023-09-15T22:57:32.901Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 38%
+2023-09-15T22:57:32.902Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 39%
+2023-09-15T22:57:32.936Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 40%
+2023-09-15T22:57:32.976Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 41%
+2023-09-15T22:57:33.027Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 42%
+2023-09-15T22:57:33.028Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 43%
+2023-09-15T22:57:33.030Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 44%
+2023-09-15T22:57:33.066Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 45%
+2023-09-15T22:57:33.095Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 46%
+2023-09-15T22:57:33.125Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 47%
+2023-09-15T22:57:33.144Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 48%
+2023-09-15T22:57:33.175Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 49%
+2023-09-15T22:57:33.197Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 50%
+2023-09-15T22:57:33.225Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 51%
+2023-09-15T22:57:33.261Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 52%
+2023-09-15T22:57:33.285Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 53%
+2023-09-15T22:57:33.316Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 54%
+2023-09-15T22:57:33.346Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 55%
+2023-09-15T22:57:33.383Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 56%
+2023-09-15T22:57:33.401Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 57%
+2023-09-15T22:57:33.425Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 58%
+2023-09-15T22:57:33.453Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 59%
+2023-09-15T22:57:33.494Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 60%
+2023-09-15T22:57:33.531Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 61%
+2023-09-15T22:57:33.567Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 62%
+2023-09-15T22:57:33.603Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 63%
+2023-09-15T22:57:33.628Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 64%
+2023-09-15T22:57:33.660Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 65%
+2023-09-15T22:57:33.683Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 66%
+2023-09-15T22:57:33.713Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 67%
+2023-09-15T22:57:33.736Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 68%
+2023-09-15T22:57:33.763Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 69%
+2023-09-15T22:57:33.791Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 70%
+2023-09-15T22:57:33.824Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 71%
+2023-09-15T22:57:33.842Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 72%
+2023-09-15T22:57:33.873Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 73%
+2023-09-15T22:57:33.897Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 74%
+2023-09-15T22:57:33.931Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 75%
+2023-09-15T22:57:33.962Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 76%
+2023-09-15T22:57:33.988Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 77%
+2023-09-15T22:57:34.015Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 78%
+2023-09-15T22:57:34.051Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 79%
+2023-09-15T22:57:34.079Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 80%
+2023-09-15T22:57:34.104Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 81%
+2023-09-15T22:57:34.136Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 82%
+2023-09-15T22:57:34.160Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 83%
+2023-09-15T22:57:34.186Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 84%
+2023-09-15T22:57:34.206Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 85%
+2023-09-15T22:57:34.232Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 86%
+2023-09-15T22:57:34.256Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 87%
+2023-09-15T22:57:34.285Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 88%
+2023-09-15T22:57:34.313Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 89%
+2023-09-15T22:57:34.347Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 90%
+2023-09-15T22:57:34.375Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 91%
+2023-09-15T22:57:34.404Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 92%
+2023-09-15T22:57:34.436Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 93%
+2023-09-15T22:57:34.474Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 94%
+2023-09-15T22:57:34.505Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 95%
+2023-09-15T22:57:34.534Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 96%
+2023-09-15T22:57:34.556Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 97%
+2023-09-15T22:57:34.584Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 98%
+2023-09-15T22:57:34.615Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 99%
+2023-09-15T22:57:34.636Z [Modules] Streaming discord_voice@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip: 100%
+2023-09-15T22:57:34.639Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-09-15T22:57:34.639Z [Modules] Installing updates...
+2023-09-15T22:57:34.639Z [Modules] Installing discord_desktop_core@8 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_desktop_core-8.zip
+2023-09-15T22:57:34.745Z [Modules] Installing discord_erlpack@8 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_erlpack-8.zip
+2023-09-15T22:57:34.819Z [Modules] Installing discord_spellcheck@8 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_spellcheck-8.zip
+2023-09-15T22:57:35.562Z [Modules] Installing discord_utils@8 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_utils-8.zip
+2023-09-15T22:57:35.962Z [Modules] Installing discord_voice@8 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_voice-8.zip
+2023-09-15T22:57:36.737Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-09-15T22:57:36.738Z [Modules] Checking for host updates.
+2023-09-15T22:57:36.938Z [Modules] Host is up to date.
+2023-09-15T22:57:36.938Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-09-15T22:57:36.942Z [Modules] No module updates available.
+2023-09-15T22:57:39.296Z [Modules] Starting to install discord_krisp...
+2023-09-15T22:57:39.296Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/canary/discord_krisp/1
+2023-09-15T22:57:39.297Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip
+2023-09-15T22:57:39.303Z [Modules] Starting to install discord_game_utils...
+2023-09-15T22:57:39.486Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 1%
+2023-09-15T22:57:39.516Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 2%
+2023-09-15T22:57:39.534Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 3%
+2023-09-15T22:57:39.565Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 4%
+2023-09-15T22:57:39.809Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 5%
+2023-09-15T22:57:39.812Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 6%
+2023-09-15T22:57:39.818Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 7%
+2023-09-15T22:57:39.822Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 8%
+2023-09-15T22:57:39.829Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 9%
+2023-09-15T22:57:39.830Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 10%
+2023-09-15T22:57:39.831Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 11%
+2023-09-15T22:57:39.833Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 13%
+2023-09-15T22:57:39.833Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 14%
+2023-09-15T22:57:39.848Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 15%
+2023-09-15T22:57:39.869Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 16%
+2023-09-15T22:57:39.898Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 17%
+2023-09-15T22:57:39.935Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 18%
+2023-09-15T22:57:39.963Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 19%
+2023-09-15T22:57:40.036Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 20%
+2023-09-15T22:57:40.114Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 21%
+2023-09-15T22:57:40.116Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 22%
+2023-09-15T22:57:40.117Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 23%
+2023-09-15T22:57:40.140Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 24%
+2023-09-15T22:57:40.141Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 25%
+2023-09-15T22:57:40.169Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 26%
+2023-09-15T22:57:40.197Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 27%
+2023-09-15T22:57:40.222Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 28%
+2023-09-15T22:57:40.349Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 29%
+2023-09-15T22:57:40.350Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 30%
+2023-09-15T22:57:40.354Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 31%
+2023-09-15T22:57:40.370Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 32%
+2023-09-15T22:57:40.372Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 33%
+2023-09-15T22:57:40.391Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 34%
+2023-09-15T22:57:40.410Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 35%
+2023-09-15T22:57:40.439Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 36%
+2023-09-15T22:57:40.458Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 37%
+2023-09-15T22:57:40.484Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 38%
+2023-09-15T22:57:40.510Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 39%
+2023-09-15T22:57:40.515Z [Modules] Checking for host updates.
+2023-09-15T22:57:40.534Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 40%
+2023-09-15T22:57:40.556Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 41%
+2023-09-15T22:57:40.578Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 42%
+2023-09-15T22:57:40.610Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 43%
+2023-09-15T22:57:40.632Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 44%
+2023-09-15T22:57:40.656Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 45%
+2023-09-15T22:57:40.682Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 46%
+2023-09-15T22:57:40.717Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 47%
+2023-09-15T22:57:40.733Z [Modules] Host is up to date.
+2023-09-15T22:57:40.733Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-09-15T22:57:40.736Z [Modules] No module updates available.
+2023-09-15T22:57:40.737Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 48%
+2023-09-15T22:57:40.754Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 49%
+2023-09-15T22:57:40.787Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 50%
+2023-09-15T22:57:40.810Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 51%
+2023-09-15T22:57:40.834Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 52%
+2023-09-15T22:57:40.857Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 53%
+2023-09-15T22:57:40.881Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 54%
+2023-09-15T22:57:40.898Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 55%
+2023-09-15T22:57:40.925Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 56%
+2023-09-15T22:57:40.936Z [Modules] Starting to install discord_rpc...
+2023-09-15T22:57:40.949Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 57%
+2023-09-15T22:57:40.971Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 58%
+2023-09-15T22:57:40.993Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 59%
+2023-09-15T22:57:41.017Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 60%
+2023-09-15T22:57:41.039Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 61%
+2023-09-15T22:57:41.068Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 62%
+2023-09-15T22:57:41.088Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 63%
+2023-09-15T22:57:41.138Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 64%
+2023-09-15T22:57:41.157Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 65%
+2023-09-15T22:57:41.194Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 66%
+2023-09-15T22:57:41.226Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 67%
+2023-09-15T22:57:41.290Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 69%
+2023-09-15T22:57:41.322Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 70%
+2023-09-15T22:57:41.354Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 71%
+2023-09-15T22:57:41.376Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 72%
+2023-09-15T22:57:41.399Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 73%
+2023-09-15T22:57:41.427Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 74%
+2023-09-15T22:57:41.454Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 75%
+2023-09-15T22:57:41.485Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 76%
+2023-09-15T22:57:41.519Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 77%
+2023-09-15T22:57:41.555Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 78%
+2023-09-15T22:57:41.589Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 79%
+2023-09-15T22:57:41.630Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 80%
+2023-09-15T22:57:41.645Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 81%
+2023-09-15T22:57:41.678Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 82%
+2023-09-15T22:57:41.707Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 83%
+2023-09-15T22:57:41.727Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 84%
+2023-09-15T22:57:41.758Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 85%
+2023-09-15T22:57:41.785Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 86%
+2023-09-15T22:57:41.803Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 87%
+2023-09-15T22:57:41.835Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 88%
+2023-09-15T22:57:41.866Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 89%
+2023-09-15T22:57:41.897Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 90%
+2023-09-15T22:57:41.928Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 91%
+2023-09-15T22:57:41.952Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 92%
+2023-09-15T22:57:41.976Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 93%
+2023-09-15T22:57:41.997Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 94%
+2023-09-15T22:57:42.026Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 95%
+2023-09-15T22:57:42.047Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 96%
+2023-09-15T22:57:42.083Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 97%
+2023-09-15T22:57:42.105Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 98%
+2023-09-15T22:57:42.136Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 99%
+2023-09-15T22:57:42.158Z [Modules] Streaming discord_krisp@1 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip: 100%
+2023-09-15T22:57:42.159Z [Modules] Fetching discord_game_utils@8 from https://discord.com/api/modules/canary/discord_game_utils/8
+2023-09-15T22:57:42.159Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip
+2023-09-15T22:57:42.159Z [Modules] Installing discord_krisp@1 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_krisp-1.zip
+2023-09-15T22:57:42.335Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 4%
+2023-09-15T22:57:42.341Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 6%
+2023-09-15T22:57:42.345Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 7%
+2023-09-15T22:57:42.353Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 10%
+2023-09-15T22:57:42.356Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 11%
+2023-09-15T22:57:42.357Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 12%
+2023-09-15T22:57:42.362Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 13%
+2023-09-15T22:57:42.371Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 14%
+2023-09-15T22:57:42.375Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 16%
+2023-09-15T22:57:42.377Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 18%
+2023-09-15T22:57:42.383Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 20%
+2023-09-15T22:57:42.390Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 22%
+2023-09-15T22:57:42.393Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 23%
+2023-09-15T22:57:42.396Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 25%
+2023-09-15T22:57:42.399Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 26%
+2023-09-15T22:57:42.404Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 27%
+2023-09-15T22:57:42.407Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 29%
+2023-09-15T22:57:42.412Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 31%
+2023-09-15T22:57:42.418Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 34%
+2023-09-15T22:57:42.426Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 36%
+2023-09-15T22:57:42.438Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 38%
+2023-09-15T22:57:42.441Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 40%
+2023-09-15T22:57:42.448Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 42%
+2023-09-15T22:57:42.451Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 44%
+2023-09-15T22:57:42.458Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 46%
+2023-09-15T22:57:42.465Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 48%
+2023-09-15T22:57:42.468Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 49%
+2023-09-15T22:57:42.473Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 52%
+2023-09-15T22:57:42.479Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 53%
+2023-09-15T22:57:42.482Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 54%
+2023-09-15T22:57:42.484Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 55%
+2023-09-15T22:57:42.491Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 57%
+2023-09-15T22:57:42.496Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 59%
+2023-09-15T22:57:42.501Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 61%
+2023-09-15T22:57:42.507Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 63%
+2023-09-15T22:57:42.512Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 65%
+2023-09-15T22:57:42.516Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 68%
+2023-09-15T22:57:42.519Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 69%
+2023-09-15T22:57:42.526Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 72%
+2023-09-15T22:57:42.529Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 73%
+2023-09-15T22:57:42.532Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 74%
+2023-09-15T22:57:42.539Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 76%
+2023-09-15T22:57:42.542Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 77%
+2023-09-15T22:57:42.547Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 79%
+2023-09-15T22:57:42.555Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 82%
+2023-09-15T22:57:42.560Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 83%
+2023-09-15T22:57:42.561Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 85%
+2023-09-15T22:57:42.574Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 88%
+2023-09-15T22:57:42.577Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 90%
+2023-09-15T22:57:42.583Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 92%
+2023-09-15T22:57:42.590Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 95%
+2023-09-15T22:57:42.591Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 96%
+2023-09-15T22:57:42.597Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 98%
+2023-09-15T22:57:42.603Z [Modules] Streaming discord_game_utils@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip: 100%
+2023-09-15T22:57:42.604Z [Modules] Fetching discord_rpc@8 from https://discord.com/api/modules/canary/discord_rpc/8
+2023-09-15T22:57:42.604Z [Modules] Streaming discord_rpc@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_rpc-8.zip
+2023-09-15T22:57:42.618Z [Modules] Installing discord_game_utils@8 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_game_utils-8.zip
+2023-09-15T22:57:42.684Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2023-09-15T22:57:42.762Z [Modules] Streaming discord_rpc@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_rpc-8.zip: 38%
+2023-09-15T22:57:42.764Z [Modules] Streaming discord_rpc@8 to /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_rpc-8.zip: 100%
+2023-09-15T22:57:42.765Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-09-15T22:57:42.766Z [Modules] Installing discord_rpc@8 from /home/bonsthie/.config/discordcanary/0.0.167/modules/pending/discord_rpc-8.zip
+2023-09-15T22:57:42.814Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-09-15T22:58:51.778Z [Modules] Modules initializing
+2023-09-15T22:58:51.779Z [Modules] Distribution: remote
+2023-09-15T22:58:51.779Z [Modules] Host updates: enabled
+2023-09-15T22:58:51.779Z [Modules] Module updates: enabled
+2023-09-15T22:58:51.779Z [Modules] Module install path: /home/bonsthie/.config/discordcanary/0.0.167/modules
+2023-09-15T22:58:51.779Z [Modules] Module installed file path: /home/bonsthie/.config/discordcanary/0.0.167/modules/installed.json
+2023-09-15T22:58:51.780Z [Modules] Module download path: /home/bonsthie/.config/discordcanary/0.0.167/modules/pending
+2023-09-15T22:58:51.995Z [Modules] No updates to install
+2023-09-15T22:58:51.995Z [Modules] Checking for host updates.
+2023-09-15T22:58:52.254Z [Modules] Host is up to date.
+2023-09-15T22:58:52.255Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-09-15T22:58:52.262Z [Modules] No module updates available.
+2023-09-15T22:58:55.765Z [Modules] Checking for host updates.
+2023-09-15T22:58:55.897Z [Modules] Host is up to date.
+2023-09-15T22:58:55.897Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-09-15T22:58:55.900Z [Modules] No module updates available.

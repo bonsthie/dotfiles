@@ -1,0 +1,15 @@
+2023/10/25-01:29:42.329 3f2 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/25-01:29:42.329 3f2 Recovering log #19
+2023/10/25-01:29:42.332 3f2 Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000019.log 
+2023/10/25-01:32:34.188 3f3 Level-0 table #24: started
+2023/10/25-01:32:34.190 3f3 Level-0 table #24: 50784 bytes OK
+2023/10/25-01:32:34.192 3f3 Delete type=0 #19
+2023/10/25-01:32:34.192 3f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/25-01:32:34.192 3f3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x18\x02\x01\x17\x00s\x00y\x00n\x00c\x00d\x00S\x00y\x00n\x00c\x00A\x00l\x00l\x00C\x00o\x00l\x00l\x00e\x00c\x00t\x00i\x00o\x00n\x00s' @ 30062 : 1
+2023/10/25-01:32:34.192 3f3 Compacting 1@1 + 1@2 files
+2023/10/25-01:32:34.197 3f3 Generated table #25@1: 1828 keys, 112625 bytes
+2023/10/25-01:32:34.197 3f3 Compacted 1@1 + 1@2 files => 112625 bytes
+2023/10/25-01:32:34.198 3f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/25-01:32:34.198 3f3 Delete type=2 #21
+2023/10/25-01:32:34.198 3f3 Delete type=2 #24
+2023/10/25-01:32:34.199 3f3 Manual compaction at level-1 from '\x00\x04\x18\x02\x01\x17\x00s\x00y\x00n\x00c\x00d\x00S\x00y\x00n\x00c\x00A\x00l\x00l\x00C\x00o\x00l\x00l\x00e\x00c\x00t\x00i\x00o\x00n\x00s' @ 30062 : 1 .. (end); will stop at (end)

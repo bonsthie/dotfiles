@@ -1,0 +1,19 @@
+2023/10/27-00:09:41.123 4d8 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/27-00:09:41.123 4d8 Recovering log #7
+2023/10/27-00:09:41.130 4d8 Level-0 table #10: started
+2023/10/27-00:09:41.145 4d8 Level-0 table #10: 1654849 bytes OK
+2023/10/27-00:09:41.146 4d8 Recovering log #10
+2023/10/27-00:09:41.146 4d8 Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000010.log 
+2023/10/27-00:09:41.147 4d8 Delete type=0 #7
+2023/10/27-00:09:42.531 4e1 Compacting 1@0 + 1@1 files
+2023/10/27-00:09:42.546 4e1 Generated table #11@0: 1515 keys, 760095 bytes
+2023/10/27-00:09:42.546 4e1 Compacted 1@0 + 1@1 files => 760095 bytes
+2023/10/27-00:09:42.547 4e1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/27-00:09:42.547 4e1 Delete type=2 #10
+2023/10/27-00:09:42.548 4e1 Delete type=2 #8
+2023/10/27-00:09:46.296 4d8 Compacting 1@1 + 1@2 files
+2023/10/27-00:09:46.301 4d8 Generated table #12@1: 55 keys, 1338 bytes
+2023/10/27-00:09:46.301 4d8 Compacted 1@1 + 1@2 files => 1338 bytes
+2023/10/27-00:09:46.301 4d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/27-00:09:46.302 4d8 Delete type=2 #5
+2023/10/27-00:09:46.302 4d8 Delete type=2 #11

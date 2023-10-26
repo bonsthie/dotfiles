@@ -1,6 +1,15 @@
 vim.g.mapleader = ' ' 
 vim.keymap.set('n' , "<leader>pv", vim.cmd.Ex)
-vim.keymap.set("n", "<leader>gd", vim.lsp.buf.definition)
+
+-- Create a function to perform both 'Go to Definition' and centering
+local function goto_definition()
+    vim.lsp.buf.definition()
+    vim.cmd('normal! zz')
+end
+
+vim.keymap.set("n", "<leader>gd", goto_definition)
+
+vim.api.nvim_set_keymap('n', '<Tab>', 'wwciw', { noremap = true, silent = true })
 
 
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")

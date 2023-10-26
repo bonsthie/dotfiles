@@ -1,0 +1,40 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "javascripts/worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+E",
+            "mac": "Command+Shift+E"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "popup.css" ],
+      "matches": [ "https://*/*", "http://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "assets/128.png",
+      "48": "assets/48.png",
+      "64": "assets/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgxTEFXnzq7F5BOSV4d7jsny6htE/j7u2OtT3aKcVgWhbJ4GfbBvtndbUBLaxlMebBMKwlKBizvAG1u4l5ALion3zNJT3U+CByNfkM2nQQJLxiNH4zH6YO7XaD9b6a1JvfTyCcVguyNwo6H/EXfyzl+WYbPFD+XatXDiX3YDUQ2+Dl7un2ihz0TDhzBUsHAB8wTM7GXzO1RC54bYRv/OtVBw9mPG+IZjKpqAf9n5hZFiBPbY4EBp/p7PuiZGirbxQA8WlH62B5YZUEfMl4IWrbbbw9ynvVautoh1mMbrhTgVVsGTWY7D3vgE2mKiW/xD/1HGYTAaHljqbjmL+Hn8UPQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "settings.html"
+   },
+   "permissions": [ "activeTab", "scripting", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "svgfiles/aigpt.svg", "svgfiles/iterate.svg", "svgfiles/close.svg", "content.css", "popup.css", "settings.html", "javascripts/setting.js" ]
+   } ]
+}

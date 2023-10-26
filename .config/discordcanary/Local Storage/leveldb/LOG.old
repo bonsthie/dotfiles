@@ -1,0 +1,5 @@
+2023/09/15-22:58:51.767 2421 Reusing MANIFEST /home/bonsthie/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
+2023/09/15-22:58:51.767 2421 Recovering log #3
+2023/09/15-22:58:51.772 2421 Level-0 table #3: started
+2023/09/15-22:58:51.783 2421 Level-0 table #3: 1911767 bytes OK
+2023/09/15-22:58:51.784 2421 Delete type=0 #3

@@ -1,0 +1,6 @@
+2023/09/16-11:45:08.568 573 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_addons.mozilla.org_0.indexeddb.leveldb since it was missing.
+2023/09/16-11:45:08.570 573 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_addons.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/16-13:13:18.179 574 Level-0 table #5: started
+2023/09/16-13:13:18.180 574 Level-0 table #5: 1293 bytes OK
+2023/09/16-13:13:18.181 574 Delete type=0 #3
+2023/09/16-13:13:18.181 574 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

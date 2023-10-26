@@ -1,0 +1,6 @@
+2023/10/05-02:45:02.476 435 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nicekeyboards.com_0.indexeddb.leveldb since it was missing.
+2023/10/05-02:45:02.480 435 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_nicekeyboards.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/05-02:46:15.335 435 Level-0 table #5: started
+2023/10/05-02:46:15.336 435 Level-0 table #5: 2178 bytes OK
+2023/10/05-02:46:15.337 435 Delete type=0 #3
+2023/10/05-02:46:15.338 435 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
