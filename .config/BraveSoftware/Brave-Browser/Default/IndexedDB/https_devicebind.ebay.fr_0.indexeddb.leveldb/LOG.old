@@ -1,6 +1,0 @@
-2023/10/11-03:41:49.228 3ff Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.fr_0.indexeddb.leveldb since it was missing.
-2023/10/11-03:41:49.230 3ff Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.fr_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/11-03:42:12.737 3ff Level-0 table #5: started
-2023/10/11-03:42:12.738 3ff Level-0 table #5: 1211 bytes OK
-2023/10/11-03:42:12.739 3ff Delete type=0 #3
-2023/10/11-03:42:12.739 3ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

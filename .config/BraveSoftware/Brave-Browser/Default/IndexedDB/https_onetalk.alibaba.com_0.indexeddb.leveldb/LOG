@@ -1,7 +1,0 @@
-2023/10/08-18:52:24.435 3c3 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_onetalk.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/08-18:52:24.435 3c3 Recovering log #3
-2023/10/08-18:52:24.436 3c3 Reusing old log /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_onetalk.alibaba.com_0.indexeddb.leveldb/000003.log 
-2023/10/08-21:13:03.220 3c4 Level-0 table #5: started
-2023/10/08-21:13:03.221 3c4 Level-0 table #5: 1315 bytes OK
-2023/10/08-21:13:03.222 3c4 Delete type=0 #3
-2023/10/08-21:13:03.222 3c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

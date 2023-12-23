@@ -1,9 +1,0 @@
-2023/10/25-23:57:50.266 bdf Reusing MANIFEST /home/bonsthie/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/10/25-23:57:50.266 bdf Recovering log #168
-2023/10/25-23:57:50.267 bdf Reusing old log /home/bonsthie/.config/discord/Local Storage/leveldb/000168.log 
-2023/10/26-00:03:10.790 ecd Level-0 table #172: started
-2023/10/26-00:03:10.811 ecd Level-0 table #172: 2058674 bytes OK
-2023/10/26-00:03:10.812 ecd Delete type=0 #168
-2023/10/26-03:27:20.058 bfb Level-0 table #174: started
-2023/10/26-03:27:20.093 bfb Level-0 table #174: 4018076 bytes OK
-2023/10/26-03:27:20.094 bfb Delete type=0 #171

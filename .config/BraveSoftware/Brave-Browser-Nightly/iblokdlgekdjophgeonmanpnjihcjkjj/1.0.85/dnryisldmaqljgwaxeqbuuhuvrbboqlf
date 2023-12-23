@@ -1,1 +1,0 @@
-{"locale": "us", "version": 1, "timestamp": "2023-07-26 13:30:26", "conversion_id_patterns": {"https://hydrow.com/order/*": {"search_in": "url", "id_pattern": "/order/([a-zA-Z0-9]*)"}, "https://joindeleteme.com/delete-me/user/datasheet/*?thanks=1&track_order_id*": {"search_in": "url", "id_pattern": "track_order_id=([a-zA-Z0-9]*)"}}}

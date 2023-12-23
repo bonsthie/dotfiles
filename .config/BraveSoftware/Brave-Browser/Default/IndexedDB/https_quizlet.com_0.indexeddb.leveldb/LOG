@@ -1,6 +1,0 @@
-2023/10/26-17:52:30.960 4d8 Creating DB /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb since it was missing.
-2023/10/26-17:52:30.962 4d8 Reusing MANIFEST /home/bonsthie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/26-17:52:54.150 4d9 Level-0 table #5: started
-2023/10/26-17:52:54.150 4d9 Level-0 table #5: 2519 bytes OK
-2023/10/26-17:52:54.151 4d9 Delete type=0 #3
-2023/10/26-17:52:54.151 4d9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
