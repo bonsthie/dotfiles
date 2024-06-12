@@ -1,8 +1,7 @@
-# If you come from bash you might have to change your $PATH.   
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
-
-# Path to your oh-my-zsh installation.
+export EDITOR=vim
 export ZSH="$HOME/.oh-my-zsh"
+export PATH="/usr/local/bin:$PATH"
+export PATH=".local/bin:$PATH"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -28,16 +27,17 @@ export LC_ALL=en_US.UTF-8
 #custom arch
 alias x='startx'
 alias inter='sh ~/tool/internet.sh'
+alias pipes="sh ~/apk/pipes.sh/pipes.sh"
 alias nm='watch nmcli d'
-alias shut='shutdown'
+alias shut='shutdown now'
+alias battery="acpi"
 
 # Aliases
 alias vim="nvim"
 alias vi="vim ."
-alias mkcd='mkdir "$1" && cd "$1"'
 alias pingg='ping google.com'
 alias c='clear'
-alias cdh='cd ~'
+alias cat=bat
 
 #ls
 alias ll='ls -l'
@@ -53,6 +53,12 @@ alias gc='git commit -m'
 alias gp='git push'
 alias gd='git diff'
 alias gl='git log'
+
+export XSECURELOCK_SAVER=saver_xscreensaver
+export XSECURELOCK_SHOW_DATETIME=1
+export XSECURELOCK_DATETIME_FORMAT="%Y-%m-%d %H:%M:%S"
+export XSECURELOCK_PASSWORD_PROMPT=asterisks
+alias lock="xlock"
 
 tm() {
     if [[ -n "$TMUX" ]]; then
@@ -139,3 +145,11 @@ function cdd() {
     fi
 }
 
+function mkcd() {
+  mkdir -p "$1" && cd "$1"
+}
+alias mkcd=mkcd
+
+function gclb(){
+	git clone git@github.com:bonsthie/"$1".git
+}
