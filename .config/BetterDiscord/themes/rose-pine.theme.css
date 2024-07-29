@@ -1,0 +1,252 @@
+/**
+* @name Rosé Pine
+* @description All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+* @source https://github.com/rose-pine/discord
+* @updateUrl https://github.com/rose-pine/discord/blob/rose-pine.theme.css
+*/
+
+.appMount-3lHmkl {
+    background: transparent !important;
+}
+
+:root {
+    --app-bg: transparent;
+    --app-blur: 11px;
+    --app-margin: 0px;
+    --app-radius: 8px;
+
+    --accent-hue: 192;
+    --accent-saturation: 72.3%;
+    --accent-lightness: 68.8%;
+    --accent-opacity: 1;
+    --accent-text-color: #000;
+
+    --sidebar-color: rgba(0, 0, 0, 0.4);
+    --main-content-color: rgba(0, 0, 0, 0.2);
+
+    --message-color: rgba(0, 0, 0, 0);
+    --message-radius: 8px;
+    --message-padding-top: 0px;
+    --message-padding-side: 6px;
+
+    --reply-hue: 226;
+    --reply-saturation: 77.4%;
+    --reply-lightness: 61.8%;
+    --reply-opacity: 1;
+    --mention-opacity: 0.25;
+
+    --textarea-color: 255, 255, 255;
+    --textarea-alpha: 0.1;
+    --textarea-alpha-focus: 0.15;
+    --textarea-text-color: #fff;
+    --textarea-radius: 22px;
+
+    --card-color: rgba(0, 0, 0, 0.4);
+    --card-color-hover: rgba(0, 0, 0, 0.5);
+    --card-color-select: rgba(0, 0, 0, 0.7);
+
+    --button-height: 32px;
+    --button-padding: 0 16px;
+    --button-action-color: #000;
+    --button-radius: 16px;
+
+    --interactive-normal: #aaa;
+    --interactive-hover: #ddd;
+    --interactive-active: #fff;
+    --interactive-muted: #777;
+
+    --background-modifier-hover: rgba(255, 255, 255, 0.075);
+    --background-modifier-selected: rgba(255, 255, 255, 0.125);
+    --font-primary: "SF Pro Display", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    --font-display: "SF Pro Display", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+/* Existing Rosé Pine Theme Variables */
+.theme-dark {
+    --menu-item-default-hover-bg: rgba(25, 23, 36, 0.8);
+    --menu-item-default-active-bg: rgba(38, 35, 58, 0.8);
+    --button-secondary-background: rgba(31, 29, 46, 0.8);
+    --button-secondary-background-hover: rgba(25, 23, 36, 0.8);
+    --ping: #eb6f92;
+    --input-background: rgba(38, 35, 58, 0.8);
+    --home-background: rgba(25, 23, 36, 0.8);
+    --background-modifier-hover: rgba(64, 61, 82, 0.8);
+    --background-modifier-selected: rgba(38, 35, 58, 0.8);
+    --background-modifier-active: rgba(38, 35, 58, 0.8);
+    --bg-mod-faint: rgba(31, 29, 46, 0.8);
+    --bg-surface-raised: rgba(31, 29, 46, 0.8);
+    --background-message-highlight: rgba(144, 122, 169, 0.2);
+    --background-message-highlight-hover: rgba(144, 122, 169, 0.15);
+    --background-mentioned: rgba(144, 122, 169, 0.2);
+    --background-mentioned-hover: rgba(144, 122, 169, 0.15);
+    --info-warning-foreground: #907aa9;
+    --bg-surface-overlay: rgba(38, 35, 58, 0.8);
+    --background-primary: rgba(25, 23, 36, 0.8);
+    --background-secondary: rgba(31, 29, 46, 0.8);
+    --background-secondary-alt: rgba(38, 35, 58, 0.8);
+    --modal-background: rgba(31, 29, 46, 0.8);
+    --modal-footer-background: rgba(38, 35, 58, 0.8);
+    --channeltextarea-background: rgba(31, 29, 46, 0.8);
+    --deprecated-card-bg: rgba(31, 29, 46, 0.8);
+    --deprecated-card-editable-bg: rgba(31, 29, 46, 0.8);
+    --activity-card-background: rgba(38, 35, 58, 0.8);
+    --background-tertiary: rgba(38, 35, 58, 0.8);
+    --background-accent: #ebbcba;
+    --text-normal: #e0def4;
+    --text-spotify: #e0def4;
+    --text-muted: #6e6a86;
+    --text-link: #31748f;
+    --background-floating: rgba(31, 29, 46, 0.8);
+    --header-primary: #e0def4;
+    --header-secondary: #e0def4;
+    --header-spotify: #9ccfd8;
+    --interactive-normal: #e0def4;
+    --interactive-hover: #6e6a86;
+    --interactive-active: #e0def4;
+    --scrollbar-thin-thumb: rgba(38, 35, 58, 0.8);
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: rgba(38, 35, 58, 0.8);
+    --scrollbar-auto-track: transparent;
+}
+
+.theme-light {
+    --menu-item-default-hover-bg: rgba(250, 244, 237, 0.8);
+    --menu-item-default-active-bg: rgba(242, 233, 225, 0.8);
+    --button-secondary-background: rgba(255, 250, 243, 0.8);
+    --button-secondary-background-hover: rgba(250, 244, 237, 0.8);
+    --ping: #b4637a;
+    --input-background: rgba(242, 233, 225, 0.8);
+    --home-background: rgba(250, 244, 237, 0.8);
+    --background-modifier-hover: rgba(223, 218, 217, 0.8);
+    --background-modifier-selected: rgba(242, 233, 225, 0.8);
+    --background-modifier-active: rgba(242, 233, 225, 0.8);
+    --bg-mod-faint: rgba(255, 250, 243, 0.8);
+    --bg-surface-raised: rgba(255, 250, 243, 0.8);
+    --background-message-highlight: rgba(196, 167, 231, 0.2);
+    --background-message-highlight-hover: rgba(196, 167, 231, 0.15);
+    --background-mentioned: rgba(196, 167, 231, 0.2);
+    --background-mentioned-hover: rgba(196, 167, 231, 0.15);
+    --info-warning-foreground: #c4a7e7;
+    --bg-surface-overlay: rgba(242, 233, 225, 0.8);
+    --background-primary: rgba(250, 244, 237, 0.8);
+    --background-secondary: rgba(255, 250, 243, 0.8);
+    --background-secondary-alt: rgba(242, 233, 225, 0.8);
+    --modal-background: rgba(255, 250, 243, 0.8);
+    --modal-footer-background: rgba(242, 233, 225, 0.8);
+    --channeltextarea-background: rgba(255, 250, 243, 0.8);
+    --deprecated-card-bg: rgba(255, 250, 243, 0.8);
+    --deprecated-card-editable-bg: rgba(255, 250, 243, 0.8);
+    --activity-card-background: rgba(242, 233, 225, 0.8);
+    --background-tertiary: rgba(242, 233, 225, 0.8);
+    --background-accent: #d7827e;
+    --text-normal: #575279;
+    --text-spotify: #575279;
+    --text-muted: #9893a5;
+    --text-link: #286983;
+    --background-floating: rgba(255, 250, 243, 0.8);
+    --header-primary: #575279;
+    --header-secondary: #575279;
+    --header-spotify: #56949f;
+    --interactive-normal: #575279;
+    --interactive-hover: #9893a5;
+    --interactive-active: #575279;
+    --scrollbar-thin-thumb: rgba(242, 233, 225, 0.8);
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: rgba(242, 233, 225, 0.8);
+    --scrollbar-auto-track: transparent;
+}
+
+.mainCard__0ec2c {
+    background-color: var(--background-secondary) !important;
+}
+
+.body-2wLx-E,
+.headerTop-3GPUSF,
+.bodyInnerWrapper-2bQs1k,
+.footer-3naVBw,
+.panels-3wFtMD {
+    background-color: var(--background-tertiary) !important;
+}
+
+.peopleColumn-1wMU14,
+.panels-j1Uci_,
+.peopleColumn-29fq28,
+.peopleList-2VBrVI,
+.content-2hZxGK,
+.header-1zd7se,
+.root-g14mjS .small-23Atuv .fullscreenOnMobile-ixj0e3 {
+    background-color: var(--background-secondary) !important;
+}
+
+.textArea-12jD-V,
+.lookBlank-3eh9lL,
+.threadSidebar-1o3BTy,
+.scrollableContainer-2NUZem,
+.perksModalContentWrapper-3RHugb,
+.theme-dark .footer-31IekZ,
+.theme-light .footer-31IekZ {
+    background-color: var(--background-tertiary) !important;
+}
+
+.numberBadge-2s8kKX,
+.base-PmTxvP,
+.baseShapeRound-1Mm1YW,
+.bar-30k2ka,
+.unreadMentionsBar-1Bu1dC,
+.mention-1f5kbO,
+.active-1SSsBb,
+.disableButton-220a9y {
+    background-color: var(--ping) !important;
+}
+
+.lookOutlined-3sRXeN.colorRed-1TFJan {
+    color: var(--ping) !important;
+}
+
+.header-3OsQeK,
+.container-ZMc96U {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.content-1gYQeQ,
+.layout-1qmrhw,
+.inputDefault-3FGxgL,
+.input-2g-os5,
+.input-2z42oC,
+.role-2TIOKu,
+.searchBar-jGtisZ {
+    border-radius: 6px !important;
+}
+
+.layout-1qmrhw:hover,
+.content-1gYQeQ:hover,
+.friendSelected_ebf869 {
+    background-color: var(--background-modifier-selected) !important;
+}
+
+.panels_a4d4d9,
+.container_b2ca13 {
+    background-color: inherit !important;
+}
+
+.container_e5a42d {
+    background: unset !important;
+    border: unset !important;
+}
+
+.custom-profile-theme .colorPrimary_dd4f85 {
+    color: var(--white) !important;
+}
+
+.lookFilled_dd4f85.colorPrimary_dd4f85 {
+    color: var(--text-normal);
+}
+
+.colorDefault_d90b3d {
+    color: var(--text-normal) !important;
+}
+
+.colorDefault_d90b3d.focused_d90b3d .subtext_d90b3d {
+    color: var(--text-normal) !important;
+}
